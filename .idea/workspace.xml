@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ce9277-261d-4c28-83a9-d8627306b5c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog3Tri.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/HerancaMultipla/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/HerancaMultipla/VeiculoCarga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/HerancaMultipla/VeiculoPasseio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/HerancaMultipla/VeiculoUtilitario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/Interface/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula31/Interface/Vetor.java" afterDir="false" />
+    <list default="true" id="c2ce9277-261d-4c28-83a9-d8627306b5c1" name="Changes" comment="Aula dia 06/09/2024. Exemplos de Abstract, Herança multipla e Interface.">
+      <change afterPath="$PROJECT_DIR$/src/Aula32/ExemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula32/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula32/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lkiwDwtp0T84YnFGmtJeMa0zxG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +38,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExemploArrayList.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -64,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725730714467</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aula dia 06/09/2024. Exemplos de Abstract, Herança multipla e Interface.">
+      <option name="closed" value="true" />
+      <created>1725731618498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725731618498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula dia 06/09/2024. Exemplos de Abstract, Herança multipla e Interface." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula dia 06/09/2024. Exemplos de Abstract, Herança multipla e Interface." />
   </component>
 </project>
